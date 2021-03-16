@@ -5,14 +5,6 @@
 1212 1212 1212
 1313 1313 1313
 
-i will never 
-for you
 
-
-branch Feature 
-start here
-
-head in Master
-will be here
-
-change in feature
+resolving conflict
+try to do it
